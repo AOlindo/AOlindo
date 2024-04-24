@@ -20,8 +20,6 @@ Me chamo Adriana Olindo, sou formada em Administração pela Uninove e estou em 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-## Minhas estatísticas do GitHub: 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AOlindo&theme=omni&show_icons=true)
 ##  Contatos
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/AOlindo)
 
