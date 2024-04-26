@@ -1,4 +1,4 @@
-# Olá, seja bem vinda(o) ao meu github😁!
+# Olá, seja bem vinda(o)!
 Me chamo Adriana Olindo, sou formada em Administração pela Uninove e estou em transição de carreira para área Tech. Atualmente curso Tecnólogo em Analise e Desenvolvimento de Sistemas na Uninove também. 
 
 ##  Habilidades e Frameworks
