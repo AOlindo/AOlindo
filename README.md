@@ -1,5 +1,5 @@
 # Olá, seja bem vinda(o)!
-Me chamo Adriana Olindo, sou formada em Administração pela Uninove e estou em transição de carreira para área Tech. Atualmente curso Tecnólogo em Analise e Desenvolvimento de Sistemas na Uninove também. 
+Me chamo Adriana Olindo, sou formada em Administração pela Uninove e estou em transição de carreira para área de tecnologia. Atualmente curso Tecnólogo em Analise e Desenvolvimento de Sistemas na Uninove também. 
 
 ##  Habilidades e Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
